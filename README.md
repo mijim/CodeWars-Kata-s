@@ -1,5 +1,7 @@
-# CodeWars-Kata-s
+# CodeWars Katas
 Solutions to the challanges perfomed on CodeWars
+
+## TypeScript Challanges
 
 ### Averages of numbers (challange 6):
 
@@ -13,7 +15,7 @@ If the array has 0 or 1 values or is null or None, your method should return an 
 
 Have fun coding it and please don't forget to vote and rank this kata! :-)
 
-## Deodorant Evaporator (challange 5):
+### Deodorant Evaporator (challange 5):
 
 This program tests the life of an evaporator containing a gas.
 
@@ -23,7 +25,7 @@ The program reports the nth day (as an integer) on which the evaporator will be 
 
 Note : Content is in fact not necessary in the body of the function "evaporator", you can use it or not use it, as you wish. Some people might prefer to reason with content, some other with percentages only. It's up to you but you must keep it as a parameter because the tests have it as an argument.
 
-## Length of missing array (challange 4):
+### Length of missing array (challange 4):
 
 You get an array of arrays.
 If you sort the arrays by their length, you will see, that their length-values are consecutive.
@@ -45,7 +47,7 @@ Have fun coding it and please don't forget to vote and rank this kata! :-)
 
 I have created other katas. Have a look if you like coding and challenges.
 
-## Regex validate PIN code (challange 3):
+### Regex validate PIN code (challange 3):
 
 ATM machines allow 4 or 6 digit PIN codes and PIN codes cannot contain anything but exactly 4 digits or exactly 6 digits.
 
@@ -57,13 +59,13 @@ validatePIN("1234") === true
 validatePIN("12345") === false
 validatePIN("a234") === false
 
-## Find the odd int (challange 2):
+### Find the odd int (challange 2):
 
 Given an array, find the int that appears an odd number of times.
 
 There will always be only one integer that appears an odd number of times.
 
-## Complementary DNA (challange 1):
+### Complementary DNA (challange 1):
 
 Deoxyribonucleic acid (DNA) is a chemical found in the nucleus of cells and carries the "instructions" for the development and functioning of living organisms.
 
