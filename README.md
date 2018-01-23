@@ -1,7 +1,7 @@
 # CodeWars-Kata-s
 Solutions to the challanges perfomed on CodeWars
 
-## Averages of numbers (challange 6):
+### Averages of numbers (challange 6):
 
 Write a method, that gets an array of integer-numbers and return an array of the averages of each integer-number and his follower, if there is one.
 
